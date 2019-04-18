@@ -3,6 +3,8 @@
 int main()
 {
    int a, b, c;
+   
+   printf("this is me");
    prntf("hello");
    printf("Enter two numbers to add\n");
    scanf("%d%d", &a, &b);
